@@ -1,9 +1,73 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "projects": [
+    {
+      "id": "8d42",
+      "name": "Breno José Leal Santana dos Santos",
+      "budget": "12233",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "8deb",
+      "name": "Breno José Leal Santana dos Santos",
+      "budget": "12",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "eecb",
+      "name": "Breno José Leal Santana dos Santos",
+      "budget": "123",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "282e",
+      "name": "Thammis Leal Santana dos Santos",
+      "budget": "123",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "27f1",
+      "name": "Thammis Leal Santana dos Santos",
+      "budget": "11",
+      "cost": 0,
+      "services": []
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
 }
