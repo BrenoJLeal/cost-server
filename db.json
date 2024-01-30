@@ -5,7 +5,6 @@
       "name": "Breno José Leal Santana dos Santos",
       "budget": "12233",
       "category": {
-        "id": "1",
         "name": "Infra"
       },
       "cost": 0,
@@ -16,7 +15,6 @@
       "name": "Breno José Leal Santana dos Santos",
       "budget": "12",
       "category": {
-        "id": "2",
         "name": "Desenvolvimento"
       },
       "cost": 0,
@@ -27,7 +25,6 @@
       "name": "Breno José Leal Santana dos Santos",
       "budget": "123",
       "category": {
-        "id": "2",
         "name": "Desenvolvimento"
       },
       "cost": 0,
@@ -38,7 +35,6 @@
       "name": "Thammis Leal Santana dos Santos",
       "budget": "123",
       "category": {
-        "id": "2",
         "name": "Desenvolvimento"
       },
       "cost": 0,
