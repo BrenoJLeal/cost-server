@@ -1,7 +1,6 @@
 {
   "projects": [
     {
-      "id": "8d42",
       "name": "Breno José Leal Santana dos Santos",
       "budget": "12233",
       "category": {
@@ -12,7 +11,6 @@
       "services": []
     },
     {
-      "id": "8deb",
       "name": "Breno José Leal Santana dos Santos",
       "budget": "12",
       "category": {
@@ -23,31 +21,28 @@
       "services": []
     },
     {
-      "id": "eecb",
       "name": "Breno José Leal Santana dos Santos",
       "budget": "123",
       "category": {
-        "id": "2",
+        "id": "3",
         "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": []
     },
     {
-      "id": "282e",
       "name": "Thammis Leal Santana dos Santos",
       "budget": "123",
       "category": {
-        "id": "2",
+        "id": "4",
         "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": []
     },
     {
-      "id": "27f1",
       "name": "Thammis Leal Santana dos Santos",
-      "budget": "11",
+      "budget": "5",
       "cost": 0,
       "services": []
     }
